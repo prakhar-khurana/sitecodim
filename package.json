@@ -1,0 +1,15 @@
+{
+  "name": "sitecodim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prakhar-khurana/sitecodim",
+  "author": "Vedanta Somnathe <vedusom142005@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.3.4",
+    "tailwindcss": "^2.2.15"
+  },
+  "scripts": {
+    "build:css": "npx tailwindcss build main.css -o output.css"
+  }
+}
