@@ -27,6 +27,7 @@ img {
 @media (max-width: 768px) {
     .education {
         height: 60vh;
+        margin-top: 10vh;
     }
 
     .owl-nav {
