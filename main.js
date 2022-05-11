@@ -5,6 +5,7 @@ const textArray = [
     "Prakhar",
     "a Photographer",
     "a Coder",
+    "a Sleeper",
     "a Debater",
     "a Quizzer",
     "a Writer",
